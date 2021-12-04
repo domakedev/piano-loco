@@ -1,2 +1,2 @@
 # piano-loco
- Piano con sonidos fuera de lo comun
+ Piano con sonidos fuera de lo común.
